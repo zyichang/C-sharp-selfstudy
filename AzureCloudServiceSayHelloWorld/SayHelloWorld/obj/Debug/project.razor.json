@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\zyichang\\source\\repos\\zyichang\\C-sharp-selfstudy\\AzureCloudServiceSayHelloWorld\\SayHelloWorld\\SayHelloWorld.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
