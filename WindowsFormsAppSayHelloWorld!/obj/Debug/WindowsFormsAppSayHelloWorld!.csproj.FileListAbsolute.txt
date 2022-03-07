@@ -1,0 +1,11 @@
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\bin\Debug\WindowsFormsAppSayHelloWorld!.exe.config
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\bin\Debug\WindowsFormsAppSayHelloWorld!.exe
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\bin\Debug\WindowsFormsAppSayHelloWorld!.pdb
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld!.csproj.AssemblyReference.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld!.csproj.SuggestedBindingRedirects.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld_.Form1.resources
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld_.Properties.Resources.resources
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld!.csproj.GenerateResource.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld!.csproj.CoreCompileInputs.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld!.exe
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\WindowsFormsAppSayHelloWorld!\obj\Debug\WindowsFormsAppSayHelloWorld!.pdb

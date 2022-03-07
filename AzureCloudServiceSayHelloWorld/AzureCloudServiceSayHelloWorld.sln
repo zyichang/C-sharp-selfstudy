@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudServiceSayHelloWorld", "AzureCloudServiceSayHelloWorld.ccproj", "{BAAD298B-340C-499B-8328-2B0AD4B5EEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloWorld", "SayHelloWorld\SayHelloWorld.csproj", "{D8773B68-86A3-4725-ABD0-E0E2DD56040C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAD298B-340C-499B-8328-2B0AD4B5EEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAD298B-340C-499B-8328-2B0AD4B5EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAD298B-340C-499B-8328-2B0AD4B5EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAD298B-340C-499B-8328-2B0AD4B5EEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8773B68-86A3-4725-ABD0-E0E2DD56040C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8773B68-86A3-4725-ABD0-E0E2DD56040C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8773B68-86A3-4725-ABD0-E0E2DD56040C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8773B68-86A3-4725-ABD0-E0E2DD56040C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF66C9C8-3268-4A1C-9C39-1EF7BBE89591}
+	EndGlobalSection
+EndGlobal

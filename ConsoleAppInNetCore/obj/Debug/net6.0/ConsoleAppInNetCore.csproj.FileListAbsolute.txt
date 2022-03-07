@@ -1,0 +1,15 @@
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\bin\Debug\net6.0\ConsoleAppInNetCore.exe
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\bin\Debug\net6.0\ConsoleAppInNetCore.deps.json
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\bin\Debug\net6.0\ConsoleAppInNetCore.runtimeconfig.json
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\bin\Debug\net6.0\ConsoleAppInNetCore.dll
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\bin\Debug\net6.0\ConsoleAppInNetCore.pdb
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.csproj.AssemblyReference.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.AssemblyInfoInputs.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.AssemblyInfo.cs
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.csproj.CoreCompileInputs.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.dll
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\refint\ConsoleAppInNetCore.dll
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.pdb
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ConsoleAppInNetCore.genruntimeconfig.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\ConsoleAppInNetCore\obj\Debug\net6.0\ref\ConsoleAppInNetCore.dll

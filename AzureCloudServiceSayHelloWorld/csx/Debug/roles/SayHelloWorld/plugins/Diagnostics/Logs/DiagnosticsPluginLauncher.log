@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Emulator config file set to C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\AzureCloudServiceSayHelloWorld\csx\Debug\roles\SayHelloWorld\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] DiagnosticsStoreRootPath set to: C:\Users\zyichang\AppData\Local\dftmp\Resources\c4f99370-278a-4230-9dfc-10c30524c93d
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Loading config file: C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\AzureCloudServiceSayHelloWorld\csx\Debug\roles\SayHelloWorld\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Config file to read: C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\AzureCloudServiceSayHelloWorld\csx\Debug\roles\SayHelloWorld\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Emulator config file set to C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\AzureCloudServiceSayHelloWorld\csx\Debug\roles\SayHelloWorld\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:52] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:53] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:53] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:53] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:53] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:09:53] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:11:03] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [19/02/2022 11:11:03] DiagnosticPlugin exited with code 0

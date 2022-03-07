@@ -1,0 +1,16 @@
+C:\Users\zyichang\source\repos\first\bin\Debug\first.exe.config
+C:\Users\zyichang\source\repos\first\bin\Debug\first.exe
+C:\Users\zyichang\source\repos\first\bin\Debug\first.pdb
+C:\Users\zyichang\source\repos\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\zyichang\source\repos\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Users\zyichang\source\repos\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\zyichang\source\repos\first\obj\Debug\first.exe
+C:\Users\zyichang\source\repos\first\obj\Debug\first.pdb
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\bin\Debug\first.exe.config
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\bin\Debug\first.exe
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\bin\Debug\first.pdb
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\obj\Debug\first.exe
+C:\Users\zyichang\source\repos\zyichang\C-sharp-selfstudy\first\obj\Debug\first.pdb
